@@ -1,18 +1,18 @@
-.odd-paragraph {
+.odd {
   background-color: lightpink;
   font-family: Verdana, sans-serif;
 }
 
-.third-ele {
+.third {
     font-size: 24px;
 }
 
-#second-ele {
+#two {
   color: blue;
   font-size: 36px;
 }
 
-#fourth-ele {
+#four {
   background-color: lightgreen;
   font-size: 24px;
   font-weight: bold;
