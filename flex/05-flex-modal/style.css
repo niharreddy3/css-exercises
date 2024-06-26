@@ -22,6 +22,7 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   padding: 16px;
   display: flex;
+  gap: 16px;
 }
 
 .icon {
@@ -55,19 +56,15 @@ body {
 
 .header{
   display: flex;
-  font-size: 22px;
-  font-weight: bold;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 8px;
 }
 
-.close-button{
-  margin-left: auto;
-}
-
-.container {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-  margin-left: 16px;
+.text {
+  margin-bottom: 8px;
 }
 
 button {
